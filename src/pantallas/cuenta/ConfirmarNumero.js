@@ -1,12 +1,12 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { StyleSheet, Text, View } from 'react-native'
 
 export default function ConfirmarNumero() {
     return (
         <View>
-            <Text>MARIO GARCIA</Text>
-            <Text>27 AÑOS</Text>
-            <Text>MÉXICO</Text>
+            <Text>CONFRIMAR NUMERO</Text>
         </View>
     )
 }
+
+const styles = StyleSheet.create({})
